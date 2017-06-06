@@ -1,11 +1,11 @@
 # Multi-Threaded-Web-Crawler
 
  Definition: 
-- A web crawler is a program which takes in a web URL and returns all the URL on that web site.
+- A web crawler is a program which takes in a web URL and returns all the URLs on that website.
 
  Description:
 - Developed Python program which takes in the homepage URL and returns all the links on that website.
-- Made the program eight times faster in terms of execution time by using multi-threaded approach in Python.
+- Made the program 8 times faster by using multi-threaded approach in Python.
 - Used Queue library in Python to manage all the tasks between the threads to avoid race around condition.
 
  Working: 
