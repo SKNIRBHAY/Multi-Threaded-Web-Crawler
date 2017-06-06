@@ -1,4 +1,4 @@
-# Multi-Threaded-Web-Crawler
+# Multi-Threaded Web-Crawler
 
  Definition: 
 - A web crawler is a program which takes in a web URL and returns all the URLs on that website.
